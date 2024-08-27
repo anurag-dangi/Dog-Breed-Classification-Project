@@ -1,1 +1,3 @@
-# Dog-Breed-Classification-Project
+# Dog Breed Classification Using CNN
+
+This project involves developing a deep learning model for dog breed classification using Convolutional Neural Networks (CNN). The model is trained on a dataset of dog images, learning to recognize and classify various breeds with high accuracy. By leveraging CNN architecture, the model automatically extracts relevant features from images, making it capable of distinguishing between different dog breeds effectively. The project aims to provide a robust and scalable solution for identifying dog breeds from images, demonstrating the power of deep learning in image classification tasks.
